@@ -21,4 +21,8 @@ int main ()
   bar = foo;      // calls assignment
   foo = bar;      // calls type-cast operator
   return 0;
+  
+  //aici
+  
 }
+
